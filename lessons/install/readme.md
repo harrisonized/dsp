@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->>  Python 3. Had to install it for the BPM course I took with Jonathan Balaban in July 2018.
+>>  Python 3. It's newer.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> Python 3.6.5
+>> Python 3.6.5 on Windows, Python 3.7.1 on Ubuntu.
 
  
 
